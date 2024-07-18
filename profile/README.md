@@ -1,3 +1,11 @@
+<p align="center">
+    <a href ="https://github.com/VaultShield/frontend"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
+    <a href ="https://github.com/VaultShield/backend"><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a>
+    <a href ="https://github.com/VaultShield/backend"><img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a>
+    <a href ="https://www.conventionalcommits.org/en/v1.0.0/"><img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white" alt="Conventional commits"></a>
+</p>
+
+
 # BizNetBB
 
 Welcome to BizNetBB, a modern forum software designed for business and community use. Developed with the latest technologies, BizNetBB makes it easy to create and manage forums with an intuitive user experience and hassle-free setup.
@@ -30,52 +38,52 @@ The backend repository contains the server-side code written in Java and Golang.
 
 The frontend repository contains the client-side code built with Next.js and React. It provides the user interface and interacts with the backend via APIs.
 
-# Contributing to BizNetBB
-
-Thank you for your interest in contributing to BizNetBB! We appreciate your support and are excited to work with you. Please follow these guidelines to contribute effectively.
-
-## How to Contribute
-
-1. **Fork the Repository**: 
-   - Navigate to the [BizNetBB repository](https://github.com/your-organization/repo) you want to contribute to and click on the `Fork` button.
-
-2. **Clone Your Fork**:
-   - Clone your forked repository to your local machine:
-     ```bash
-     git clone https://github.com/your-username/repo.git
-     cd repo
-     ```
-
-3. **Create a New Branch**:
-   - Create a new branch for your feature or bugfix:
-     ```bash
-     git checkout -b feature/your-feature
-     ```
-
-4. **Make Changes**:
-   - Implement your changes in the new branch.
-
-5. **Commit Your Changes**:
-   - Commit your changes with a clear and descriptive message:
-     ```bash
-     git commit -am 'Add new feature: description of the feature'
-     ```
-
-6. **Push to Your Fork**:
-   - Push your changes to your forked repository:
-     ```bash
-     git push origin feature/your-feature
-     ```
-
-7. **Create a Pull Request**:
-   - Go to the original repository on GitHub and create a Pull Request from your forked branch.
-
 ## Contributors
 
 We'd like to thank the following people for their contributions to BizNetBB:
 
-- [Add your name here]
+**Backend**
+   - Alexander Rios - [Flussen](https://github.com/Flussen)
+   - Alejandro Salvatierra - [Alejandro99billi](https://github.com/alejandro99billi)
+   - Mateo Garcia - [Matdevcoder](https://github.com/orgs/BizNetBB/people/matdevcoder)
+
+**Frontend**
+   - Alejandro Rodriguez - [Jaro-c](https://github.com/Jaro-c)
+   - Flavio Taccarelli - [Flavioramses](https://github.com/flavioramses)
+   - Josue Bustamante - [BustaGraphic](https://github.com/BustaGraphic)
 
 ---
+
+## LICENSE
+
+This project is licensed under the GNU General Public License v3.0. You may use, distribute, and modify this code under the terms of the GPL-3.0 license.
+
+### GNU General Public License v3.0
+
+[https://www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+#### Permissions
+
+- Commercial use
+- Modification
+- Distribution
+- Patent use
+- Private use
+
+#### Conditions
+
+- License and copyright notice
+- State changes
+- Disclose source
+
+#### Limitations
+
+- Liability
+- Warranty
+
+For more details, please refer to the full text of the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+---
+
 
 Developed by a team of 6 junior developers, BizNetBB aims to provide a seamless forum experience for enterprises and communities. We look forward to your feedback and contributions!
