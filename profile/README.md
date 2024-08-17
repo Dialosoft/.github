@@ -1,18 +1,18 @@
 <p align="center">
-    <a href ="https://github.com/BizNetBB/frontend"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
-    <a href ="https://github.com/BizNetBB/backend"><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a>
-    <a href ="[https://github.com/VaultShield/backend](https://github.com/BizNetBB/backend)"><img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a>
+    <a href ="https://github.com/Dialosoft/frontend"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
+    <a href ="https://github.com/Dialosoft/backend"><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a>
+    <a href ="[https://github.com/VaultShield/backend](https://github.com/Dialosoft/backend)"><img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a>
     <a href ="https://www.conventionalcommits.org/en/v1.0.0/"><img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white" alt="Conventional commits"></a>
 </p>
 
 
-# BizNetBB
+# Dialosoft
 
-Welcome to BizNetBB, a modern forum software designed for business and community use. Developed with the latest technologies, BizNetBB makes it easy to create and manage forums with an intuitive user experience and hassle-free setup.
+Welcome to Dialosoft, a modern forum software designed for business and community use. Developed with the latest technologies, Dialosoft makes it easy to create and manage forums with an intuitive user experience and hassle-free setup.
 
 ## Project Description
 
-BizNetBB is a comprehensive forum solution, comparable to platforms like SMF and phpBB, but built with modern technologies to offer superior performance and ease of use. The project is composed of two main repositories:
+Dialosoft is a comprehensive forum solution, comparable to platforms like SMF and phpBB, but built with modern technologies to offer superior performance and ease of use. The project is composed of two main repositories:
 
 - **Backend**: Developed in Java and Golang to ensure robustness and scalability.
 - **Frontend**: Built with Next.js and React for a dynamic and responsive user experience.
@@ -28,7 +28,7 @@ BizNetBB is a comprehensive forum solution, comparable to platforms like SMF and
 
 ## Project Structure
 
-The BizNetBB project is divided into two repositories:
+The Dialosoft project is divided into two repositories:
 
 ### Backend
 
@@ -40,12 +40,12 @@ The frontend repository contains the client-side code built with Next.js and Rea
 
 ## Contributors
 
-We'd like to thank the following people for their contributions to BizNetBB:
+We'd like to thank the following people for their contributions to Dialosoft:
 
 **Backend**
    - Alexander Rios - [Flussen](https://github.com/Flussen)
    - Alejandro Salvatierra - [Alejandro99billi](https://github.com/alejandro99billi)
-   - Mateo Garcia - [Matdevcoder](https://github.com/orgs/BizNetBB/people/matdevcoder)
+   - Mateo Garcia - [Matdevcoder](https://github.com/orgs/Dialosoft/people/matdevcoder)
 
 **Frontend**
    - Alejandro Rodriguez - [Jaro-c](https://github.com/Jaro-c)
@@ -86,4 +86,4 @@ For more details, please refer to the full text of the [GPL-3.0 License](https:/
 ---
 
 
-Developed by a team of 6 junior developers, BizNetBB aims to provide a seamless forum experience for enterprises and communities. We look forward to your feedback and contributions!
+Developed by a team of 6 junior developers, Dialosoft aims to provide a seamless forum experience for enterprises and communities. We look forward to your feedback and contributions!
