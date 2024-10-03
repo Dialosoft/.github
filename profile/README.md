@@ -1,6 +1,5 @@
 <p align="center">
     <a href ="https://github.com/Dialosoft/frontend"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
-    <a href ="https://github.com/Dialosoft/backend"><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a>
     <a href ="[https://github.com/VaultShield/backend](https://github.com/Dialosoft/backend)"><img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a>
     <a href ="https://www.conventionalcommits.org/en/v1.0.0/"><img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white" alt="Conventional commits"></a>
 </p>
